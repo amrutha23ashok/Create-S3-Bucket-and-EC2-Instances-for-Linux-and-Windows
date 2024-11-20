@@ -40,8 +40,8 @@ Verify the status of both instances in the EC2 dashboard.
 Connect to the Linux instance using SSH.
 Connect to the Windows instance using RDP.
 ## OUTPUT
-### REG NUMBER:212223040048
-### NAME:GOGINENI BIDHISHA
+### REG NUMBER:21222110004
+### NAME:AMRUTHA
  ### S3 BUCKET CREATION:
  ![image](https://github.com/user-attachments/assets/fe08ab4a-2600-412f-9017-9de1cf30a5a7)
 ### CONTENT IN BUCKET :
